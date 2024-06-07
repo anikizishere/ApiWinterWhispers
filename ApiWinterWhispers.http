@@ -1,0 +1,6 @@
+@ApiWinterWhispers_HostAddress = http://localhost:5209
+
+GET {{ApiWinterWhispers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
